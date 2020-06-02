@@ -1,7 +1,8 @@
 ## Introduction
 
-this project is a small pig dice game created use vanilla Javascript, HTML5 and CSS3.<br />
-Game rule:<br />
+This project is a small pig dice game created using vanilla Javascript, HTML5 and CSS3.<br />
+<br />
+Game rule:
 1. Each player roll dices successively.<br />
 2. Each player can HOLD the round score by pressing HOLD button.<br />
 3. Every time player rolls a dice, its score will be added cumulatively.<br />
